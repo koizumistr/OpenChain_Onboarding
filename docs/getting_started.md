@@ -10,7 +10,7 @@ Working groups are open to any member of the Foundation, for more details regard
 
 1. Forward your GitHub username to [GSF Onboarding team](mailto:helpdesk@greensoftware.foundation)
 2. Click [here]() to gain access to Google-WorkSpace
-3. Click [here](https://join.slack.com/t/greensoftwarefdn/signup) join the GSF Slack community (Note - this must be done with your work domain email address)
+3. Click [here](https://join.slack.com/t/greensoftwarefdn/signup target="_blank") join the GSF Slack community (Note - this must be done with your work domain email address)
  - When you join the GSF slack channel it'd be great if you introduced yourself in the general slack channel.
 
 
