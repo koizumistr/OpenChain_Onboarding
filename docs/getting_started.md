@@ -1,45 +1,42 @@
-## Getting Started
+[<img src="./img/GSF_logo.png" alt="drawing" width="150"/>](https://greensoftware.foundation)
 
-### Groups.io (Private)
+# Getting Started
 
-Groups.io centralises all admin requirements for VFA members 
+Welcome to the Green Software Foundation!
 
-- **Email distribution lists** can be accessed [here](https://volumetric.groups.io/g/main/subgroups ) to – Join or unsubscribe
-- **Wiki page** – Specific links and information for each Working Group
-- **Main page** - Generic VFA Information
-- **Files** – Specific Working Group Documentation & presentation  
-- **Meeting schedule, calendar dates** – View & Download a specific meeting schedule
-- **Polls** - Members to vote on a submitted question
+Working groups are open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
-> To access the VFA Groups.io account, login [here](https://volumetric.groups.io/) with you company email address
+## First Steps
 
-### GitHub (Private)  [GitHub Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
+1. Forward your GitHub username to [GSF Onboarding team](mailto:helpdesk@greensoftware.foundation)
+2. Click [here]() to gain access to Google-WorkSpace
+3. Click [here](https://join.slack.com/t/greensoftwarefdn/signup) join the GSF Slack community (Note - this must be done with your work domain email address)
+ - When you join the GSF slack channel it'd be great if you introduced yourself in the general slack channel.
 
-This repository will form the basis for all [VFA Working Group Activities](https://github.com/volumetricformat)
+
+## GSF GitHub
+
+- [GSF WG Projects](https://github.com/Green-Software-Foundation)
 
 - **Working Group repositories** – Development of Specs & Sup files
 - **Templates** – Standardized templates (Approved by TSC)
 - **Dictionary** - Common collection of definitions and abbreviations (Approved by TSC)
-- **GitHub Training Material** (Public) - https://github.com/volumetricformat/GitHub_Training   
-- **The Way We Work** - Process and procedures to be followed by the VFA WG(s)
+- **GitHub Training Material** -   
+- **The Way We Work** - 
 
-> To access the VFA GitHub area, forward your company associated GitHub account to helpdesk@volumetricformat.org 
-
-[GitHub member Guidelines](https://volumetricformat.github.io/GitHub_Training/#/)
+[GitHub member Guidelines]()
 
 
-### Slack (Private)
+### Google Workspace
 
-[This space](vfa-org.slack.com) is for VFA members to communicate informally with other members.  
+### GSF Slack Community 
+
+- [GSF Slack-space](https://join.slack.com/t/greensoftwarefdn/signup)is for the GSF members to communicate informally with other members.  
 
 Slack should not be used to communicate decision that would normally be made more formally in the group (technical decision / Board decision)
 Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
 
-**Member only channels**;
-- vfa-tsc
-- vfa-bod
-- vfa-helpdesk (Open channel)
 
-All issues and assistance  - helpdesk@volumetricformat.org (Always monitored)
+**All issues and assistance** - helpdesk@greensoftware.foundation (Always monitored)
 
 
