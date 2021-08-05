@@ -14,7 +14,7 @@ Working groups are open to any member of the Foundation, for more details regard
  - When you join the GSF slack channel it'd be great if you introduced yourself in the general slack channel.
 
 
-## GSF GitHub
+### GSF GitHub
 
 - [GSF WG Projects](https://github.com/Green-Software-Foundation)
 
