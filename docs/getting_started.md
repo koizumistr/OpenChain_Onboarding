@@ -26,10 +26,10 @@ Working groups are open to any member of the Foundation, for more details regard
 - **GitHub Training Material** -   
 - **The Way We Work** - 
 
-[GitHub member Guidelines]()
 
 
 ### Google Workspace
+
 
 ### GSF Slack Community 
 
