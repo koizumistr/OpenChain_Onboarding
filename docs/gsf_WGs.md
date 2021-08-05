@@ -1,5 +1,7 @@
 # GSF Working Groups
 
+## GSF Structure
+
 ## Communtity Working Group
 
 ## Innovation Working Group
