@@ -1,10 +1,10 @@
-![logo](./img/vfa_logo.PNG ':no-zoom')
+![logo](./img/GSF_logo.PNG ':no-zoom')
 
-# Volumetric Format Association Introduction <small>v1.0</small> 
-The leaders in video technology are defining the future of interactive volumetric gaming, broadcast, and streaming.
+# Green Software Foundation Introduction <small>v1.0</small> 
+The Green Software Foundation is a non-profit with the mission to create a trusted ecosystem of people, standards, tooling and best practices for building green software
 
-[VFA Onboarding](Introduction.md)
-[VFA Website](https://www.volumetricformat.org/)
-[helpdesk](mailto:helpdesk@volumetricformat.org)
+[GSF Onboarding](Introduction.md)
+[VFA Website](https://greensoftware.foundation)
+[helpdesk](mailto:helpdesk@greensoftware.io)
 
 ![color](#f6f8fa)
