@@ -2,8 +2,8 @@
   - [Introduction to GSF](Introduction.md)
   - [Getting Started](getting_started.md)
   - [GSF Working Groups](gsf_WGs.md)
-  - [GSF Manifesto]()
-  - [FAQ's]()
+  - [GSF Manifesto](https://github.com/Green-Software-Foundation/cwg_gsf_manifesto)
+  - [FAQ's](faq.md)
 
 - 2: GitHub
   - [GitHub Training]()
