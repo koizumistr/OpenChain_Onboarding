@@ -1,8 +1,7 @@
 - 1: GSF overview
   - [Introduction to GSF](Introduction.md)
   - [Getting Started](getting_started.md)
-  - [GSF Working Groups]()
-  - [GSF Structure]()
+  - [GSF Working Groups](gsf_WGs.md)
   - [GSF Manifesto]()
   - [FAQ's]()
 
