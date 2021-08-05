@@ -1,13 +1,14 @@
 - 1: GSF overview
   - [Introduction to GSF](Introduction.md)
   - [Getting Started](getting_started.md)
-  - [Contacts](contacts.md)
-  - [GSF Structure](vfa_Structure.md)
+  - [GSF Working Groups]()
+  - [GSF Structure]()
+  - [GSF Manifesto]()
+  - [FAQ's]()
 
 - 2: GitHub
-  - [GitHub Training](https://volumetricformat.github.io/GitHub_Training/#/)
-  - [Creating an Account](creating_an_account.md)
-  - [GSF Repositories](vfa_repositories.md)
+  - [GitHub Training]()
+  - [GSF Repositories](https://github.com/Green-Software-Foundation)
   
 
 
