@@ -1,4 +1,4 @@
-[<img src="./img/GSF_logo.png" alt="drawing" width="150"/>](https://greensoftware.foundation)
+[<img src="./img/Onboard image.png" alt="drawing" width="150"/>](https://greensoftware.foundation)
 
 # Getting Started
 
@@ -6,7 +6,7 @@ Welcome to the Green Software Foundation!
 
 Working groups are open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
-## First Steps
+## First Steps Checklist
 
 1. Forward your GitHub username to [GSF Onboarding team](mailto:helpdesk@greensoftware.foundation)
 2. Click [here]() to gain access to Google-WorkSpace
