@@ -15,6 +15,8 @@ Working groups are open to any member of the Foundation, for more details regard
 
 ## GSF Resources Overview
 
+DETAILS TO BE ADDED
+
 ## How to Collaborate in the GSF
 
 ### GitHub
