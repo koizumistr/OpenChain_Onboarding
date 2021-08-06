@@ -9,26 +9,21 @@ Working groups are open to any member of the Foundation, for more details regard
 ## First Steps Checklist
 
 - [ ] Forward your GitHub username to [GSF Onboarding team](mailto:helpdesk@greensoftware.foundation)
-- [ ] [here]() to gain access to Google-WorkSpace
+- [ ] [here]() to gain access to GSF Google-WorkSpace
 - [ ] [here](https://join.slack.com/t/greensoftwarefdn/signup) to join the GSF Slack community (Note - this must be done with your work domain email address)
  - When you join the GSF slack channel it'd be great if you introduced yourself in the general slack channel.
 
 ## GSF Resources Overview
 
-### GSF GitHub
+## How to Collaborate in the GSF
 
-[GSF WG Projects](https://github.com/Green-Software-Foundation)
+### GitHub
 
-- **Working Group repositories** – Development of Specs & Sup files
-- **Templates** – Standardized templates (Approved by TSC)
-- **Dictionary** - Common collection of definitions and abbreviations (Approved by TSC)
-- **GitHub Training Material** -   
-- **The Way We Work** - 
-
+DETAILS TO BE ADDED
 
 ### Google Workspace
 
-INFO TO BE ADDED
+DETAILS TO BE ADDED
 
 
 ### GSF Slack Community 
@@ -39,6 +34,6 @@ Slack should not be used to communicate decision that would normally be made mor
 Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
 
 
-## **All issues and assistance** - helpdesk@greensoftware.foundation (Always monitored)
+**All issues and assistance** - helpdesk@greensoftware.foundation (Always monitored)
 
 
