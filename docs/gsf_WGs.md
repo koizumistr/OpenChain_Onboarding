@@ -1,5 +1,12 @@
 # GSF Working Groups
 
+## GSF Governance Structure
+
+<figure>
+	<img src="img/gsf_governance.svg" alt="GSF Governance Structure">
+	<figcaption></figcaption>
+</figure>
+
 ## Communtity Working Group
 **Scope** - Facilitate broad adoption of green software standards and best practices through the creation of partnerships, content, events and programs.
 Ensure diverse participation of stakeholders in the development and implementation of green software.
@@ -24,9 +31,3 @@ Define guidance regarding when, how and in what context the Foundations trademar
 
  - [Projects](https://github.com/Green-Software-Foundation/trademark_wg#projects)
 
-## GSF Structure
-
-<figure>
-	<img src="img/gsf_governance.svg" alt="GSF Governance Structure">
-	<figcaption>GSF Governance Structure</figcaption>
-</figure>
