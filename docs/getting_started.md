@@ -15,27 +15,23 @@ Working groups are open to any member of the Foundation, for more details regard
 
 ## GSF Resources Overview
 
-DETAILS TO BE ADDED
-
-## How to Collaborate in the GSF
-
 ### GitHub
+How to Collaborate in the GSF
 
-DETAILS TO BE ADDED
 
 ### Google Workspace
-
-DETAILS TO BE ADDED
-
+ - [Find and join a group](https://support.google.com/a/users/answer/9304806?hl=en&ref_topic=9296547)
+ - Google docs [training and help](https://support.google.com/a/users/answer/9282958?hl=en)
+ - [Share and collaborate on files](https://support.google.com/a/users/answer/9305987?hl=en)
 
 ### GSF Slack Community 
 
-[GSF Slack-space](https://join.slack.com/t/greensoftwarefdn/signup)is for the GSF members to communicate informally with other members.  
+[GSF Slack-space](https://join.slack.com/t/greensoftwarefdn/signup) is for the GSF members to communicate informally with other members.  
 
-Slack should not be used to communicate decision that would normally be made more formally in the group (technical decision / Board decision)
+- Slack should not be used to communicate decision that would normally be made more formally in the group (technical decision / Board decision)
 Information that is to be incorporated into the specification or decisions for the Board should be included in formal contributions. 
 
 
-**All issues and assistance** - helpdesk@greensoftware.foundation (Always monitored)
+## All issues and assistance** - helpdesk@greensoftware.foundation (Always monitored)
 
 
