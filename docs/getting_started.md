@@ -9,11 +9,9 @@ Welcome to the [Foundation](https://greensoftware.foundation). We are excited to
 
 1- Firstly, please join our [Slack](https://join.slack.com/t/greensoftwarefdn/signup) and introduce yourself in the [#introductions](https://greensoftwarefdn.slack.com/archives/C028640QYSV) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact helpdesk@greensoftware.io.
 
-2 - Forward your GitHub username to [GSF Onboarding team](mailto:helpdesk@greensoftware.foundation)
+2 - The Foundation functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
 
-3 - The Foundation functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
-
-Please join working groups by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScbmtso8IprXx_PlHwhTFCoTZkmtc7HuDPdXTP9EOXvupVYrw/viewform).
+Please join working groups by filling out **[this form](https://docs.google.com/forms/d/e/1FAIpQLScbmtso8IprXx_PlHwhTFCoTZkmtc7HuDPdXTP9EOXvupVYrw/viewform)**.
 
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
 
