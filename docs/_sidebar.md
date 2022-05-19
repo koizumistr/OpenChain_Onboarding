@@ -8,7 +8,7 @@
 
 - 2: GitHub
   - [GitHub Training](https://openchain-project.github.io/github_training/)
-  - [GSF Repositories]([https://github.com/Green-Software-Foundation](https://github.com/OpenChain-Project))
+  - [OpenChain Repositories](https://github.com/OpenChain-Project)
   
 
 
