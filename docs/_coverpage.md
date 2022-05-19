@@ -1,4 +1,4 @@
-![logo](./img/OpenChain logo.png ':no-zoom')
+![logo](./img/logo_1.png ':no-zoom')
 
 # OpenChain Onboarding <small>v1.0</small> 
 The OpenChain Project maintains the International Standard for open source license compliance. <br>
