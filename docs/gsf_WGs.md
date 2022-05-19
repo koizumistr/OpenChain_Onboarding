@@ -9,20 +9,24 @@
 
 ## xxxx Working Group
 **Scope** - Add here
+**Chairperson**<br>
 
  - [Projects](add github links)
 
 ## xxxx Working Group
 **Scope** - Add here
+**Chairperson**<br>
 
  - [Projects](add github links)
 
 ## xxxx Working Group
 **Scope** - Add here
+**Chairperson**<br>
 
  - [Projects](add github links)
 
 ## xxxx Working Group
 **Scope** - Add here
+**Chairperson**<br>
 
  - [Projects](add github links)
