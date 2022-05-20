@@ -1,10 +1,9 @@
 ## Scope
 
-The Green Software Foundation’s Manifesto, is the public facing declaration of the policy and aims of the Foundation. It describes the set of core values of the Foundation and how we operationalise those values. It is used to both inform and guide the decisions and behaviours of the people inside the Foundation and signal to external stakeholders what's important to the Foundation.
+The OpenChain Project maintains the International Standard for open source license compliance. This allows companies of all sizes and in all sectors to adopt the key requirements of a quality open source compliance program. This is an open standard and all parties are welcome to engage with our community, to share their knowledge, and to contribute to the future of our standard.
 
-## Mission & Vision
-Mission: Build a trusted ecosystem of people, standards, tooling and best practices for creating and building green software.  
+**Mission & Vision** Is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
  
-**Vision**: Change the culture of building software across the tech industry, so sustainability becomes a core priority to software teams, just as important as performance, security, cost and accessibility. 
+**Our Vision**: is a supply chain where open source is delivered with trusted and consistent compliance information.
 
-- [GSF Manifesto](https://github.com/Green-Software-Foundation/cwg_gsf_manifesto)
+- [About the OpenChain project](https://www.openchainproject.org/about)
