@@ -8,9 +8,13 @@ Our Vision is a supply chain where open source is delivered with trusted and con
 Our Mission is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
 
 ## WG Areas
-**[Add here](https://github.com/Green-Software-Foundation/standards_wg)**: WG details here <br>
-**[Add here](https://github.com/Green-Software-Foundation/innovation_wg)**: WG details here  <br>
-**[Add here](https://github.com/Green-Software-Foundation/community_wg)**: WG details here <br>
-**[Add here](https://github.com/Green-Software-Foundation/trademark_wg)** WG details here 
+**[OpenChain Project Korea Work Group ](https://github.com/OpenChain-Project/OpenChain-KWG)**: OpenChain KWG (Korea Work Group), a subgroup of the Linux Foundation OpenChain Project, aims to create and share ways to effectively achieve open source compliance for all Korean ICT companies using open source software through collaboration and sharing, which is the spirit of open source! <br>
+
+**[OpenChain Project Japan Work Group(JWG)](https://github.com/OpenChain-Project/OpenChain-JWG)**: OpenChain Japan Work Group（以降Japan WG）は、OpenChain Projectの活動の一つです。そのため、まずOpenChain Projectについて説明します。<br>
+
+**[OpenChain Project Taiwan Work Group](https://github.com/OpenChain-Project/OpenChain-TWG)** WG details here 
+
+**[Specification](https://github.com/OpenChain-Project/Specification)**:This repository holds the official OpenChain Specification releases in English along with community reference translations in multiple languages.<br>
+
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
