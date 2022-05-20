@@ -2,7 +2,7 @@
   - [Introduction to OpenChain](Introduction.md)
   - [Getting Started](getting_started.md)
   - [OpenChain Working Groups](gsf_WGs.md)
-  - [About The OpenChain Project](The_OpenChain_Project.md)
+  - [About The OpenChain Project](About The_OpenChain_Project.md)
   - [FAQ's](https://www.openchainproject.org/resources/faq)
   - [General Manager](https://www.openchainproject.org/about/contact)
 
