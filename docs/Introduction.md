@@ -18,4 +18,4 @@ Our Mission is to establish requirements to achieve effective management of open
 - **[Specification](https://github.com/OpenChain-Project/Specification)**:This repository holds the official OpenChain Specification releases in English along with community reference translations in multiple languages.<br>
 
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+## [Code of Conduct](CODE_OF_CONDUCT.md)
