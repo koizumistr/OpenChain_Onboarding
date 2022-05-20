@@ -13,4 +13,4 @@ Our Mission is to establish requirements to achieve effective management of open
 **[Add here](https://github.com/Green-Software-Foundation/community_wg)**: WG details here <br>
 **[Add here](https://github.com/Green-Software-Foundation/trademark_wg)** WG details here 
 
-[JOIN OUR NEWSLETTER]()
+[Code of Conduct](CODE_OF_CONDUCT.md)
