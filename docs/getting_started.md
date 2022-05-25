@@ -17,18 +17,24 @@ Have a look at our OpenChain [<img src="./img/github_logo.png" alt="drawing" wid
 ## Groups.io
 Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join)    
 
-## Get involved - WG Meeting Schedules
+## Engage With Our Community
+
+We Hold [Bi-Weekly Global Calls and Bi-Weekly Webinars](https://www.openchainproject.org/community). This allow us to connect with teams around the world to discuss activity, and to hold on-going presentations delivering timely knowledge.
 
 ## Twitter
+
 Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
 ## LinkedIn
+
 Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
 
 ## Time Commitment
+
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
 
 ## Having Problems 
+
 If you are having technical difficulties or lacking access to something, please reach out to our [PM team](mailto:helpdesk@lists.openchainproject.org)
 
 
