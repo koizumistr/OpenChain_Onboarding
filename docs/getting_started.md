@@ -20,10 +20,10 @@ Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" w
 ### Get involved - WG Meeting Schedules
 
 ### Twitter
-Follow our OpenChain Twitter [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
+Follow us on Twitter [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
 ### LinkedIn
-Join our LinkedIn community [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
+Join us on LinkedIn[<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
 
 ## Time Commitment
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
