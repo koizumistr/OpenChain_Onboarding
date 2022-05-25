@@ -1,7 +1,7 @@
 - 1: OpenChain overview
   - [Introduction to OpenChain](Introduction.md)
   - [Getting Started](getting_started.md)
-  - [OpenChain Working Groups](gsf_WGs.md)
+  - [OpenChain Working Groups](OpenChain_WGs.md)
   - [About The OpenChain Project](About_The_OpenChain_Project.md)
   - [FAQ's](https://www.openchainproject.org/resources/faq)
   - [General Manager](https://www.openchainproject.org/about/contact)
