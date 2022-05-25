@@ -24,6 +24,8 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 ### Twitter
 Follow our OpenChain Twitter [<img src="./img/Twitter_small.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
+### LinkedIn
+Join our LinkedIn community [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
 
 ### Helpdesk
 If you are having technical difficulties or lacking access to something, please reach out to our PM team using mailto:helpdesk@lists.openchainproject.org
