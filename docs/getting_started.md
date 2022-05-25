@@ -19,18 +19,13 @@ Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" w
 
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
 
-## xxxxx Group
-Add WG details
+### Get involved - WG Meeting Schedules
 
-## xxxxx Group
-Add WG details
+### Twitter
+Follow our OpenChain Twitter [<img src="./img/Twitter_small.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
-## xxxxx Group
-Add WG details
 
-## xxxxx Group
-Add WG details
-
+### Helpdesk
 If you are having technical difficulties or lacking access to something, please reach out to our PM team using mailto:helpdesk@lists.openchainproject.org
 
 
