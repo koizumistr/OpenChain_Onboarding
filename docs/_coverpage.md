@@ -9,8 +9,4 @@ This is an open standard and all parties are welcome to engage with our communit
 [GitHub Guidelines](https://openchain-project.github.io/github_training/)
 [helpdesk](mailto:helpdesk@lists.openchainproject.org)
 
-<a href="mailto:helpdesk@lists.openchainproject.org"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-[Helpdesk](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
-
 ![color](#f6f8fa)
