@@ -12,7 +12,7 @@ Please take a moment to join our OpenChain community.
 Join the OpenChain [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) community and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact mailto:helpdesk@lists.openchainproject.org.
 
 ## GitHub
-Have a look at our OpenChain Projects [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project). OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
+Have a look at our OpenChain [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project) projects. OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
 
 ## Groups.io
 Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join)    
@@ -20,10 +20,10 @@ Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" w
 ## Get involved - WG Meeting Schedules
 
 ## Twitter
-Follow us on Twitter [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
+Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
 ## LinkedIn
-Join us on LinkedIn[<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
+Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
 
 ## Time Commitment
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
