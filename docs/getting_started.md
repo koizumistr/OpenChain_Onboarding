@@ -8,11 +8,14 @@ Welcome to the [Foundation](https://www.openchainproject.org/). We are excited t
 ## Important First Steps
 
 
-1. Please join our [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact mailto:helpdesk@lists.openchainproject.org.
+### Slack
+Please join our [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact mailto:helpdesk@lists.openchainproject.org.
 
-2. Have a look at our OpenChain Projects [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project). OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
+### GitHub
+Have a look at our OpenChain Projects [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project). OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
 
-3. Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join)    
+### Groups.io
+Join our OpenChain Project [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join)    
 
 The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
 
