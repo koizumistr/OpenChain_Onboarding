@@ -1,10 +1,8 @@
-# How we work togeter
-
-## 
+# GitHub Project - How we work togeter
 
 ## Consensus Based Projects
 
-These projects are run via consensus with the same rules as the associated working group. If as an individual member you have concerns with the direction of these projects you may choose to raise an objection which needs to be resolved.
+These projects are run via consensus with the same rules applied in all the working groups. If you are unfamiliar with GitHub, [click here](https://openchain-project.github.io/github_training/), for our GitHub guidelines. If you need any one on one trainging, please let the team know.
 
 ## GitHub Consensus Based Projects
 For example, projects related to creating whitepapers or specifications.
