@@ -6,4 +6,13 @@ Welcome to the OpenChain, we are excited to have you join our community. Our glo
 
 **[Add Images and personalities of the OpenChain]**
 
+## General Manager
+
+Shane Coughlan (scoughlan@linuxfoundation.org)
+
+**Brief bio:** Shane Coughlan is an expert in communication, security and business development. His professional accomplishments include spearheading the licensing team that elevated Open Invention Network into the largest patent non-aggression community in history, establishing the leading professional network of Open Source legal experts and aligning stakeholders to launch both the first law journal and the first law book dedicated to Open Source. He currently leads the OpenChain community and serves on various boards. Shane has extensive knowledge of Open Source governance, internal process development, supply chain management and community building. His experience includes engagement with the enterprise, embedded, mobile and automotive industries.(Timezone: Japan (UTC+9)
+
+- [Schedule a call](https://meetings.hubspot.com/scoughlan)
+
+## [Project Charter](https://github.com/OpenChain-Project/Project-Charter-And-Agreements/tree/master/Project-Charter)
 ## [Code of Conduct](CODE_OF_CONDUCT.md)
