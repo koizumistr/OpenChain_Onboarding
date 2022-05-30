@@ -3,7 +3,7 @@
 
 # Getting Started
 
-Welcome to the [Foundation](https://www.openchainproject.org/). We are excited to have you join our community. We have a guidebook with helpful information about how we work, valuable links, FAQ and contact info. So if you are going to bookmark one thing, make it that guidebook.
+Welcome to the [Foundation](https://www.openchainproject.org/). We are excited to have you join our community.  Our global community encompasses hundreds of companies and thousands of people dedicated to making open source license compliance more effective and efficient. This is more than an ISO standard. We work together to share knowledge, to produce reference material, and to offer direct community support globally and locally. Take a moment to learn about some of the people behind this collaborative effort.
 
 ## Important First Steps
 
@@ -33,10 +33,5 @@ Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](htt
 ## 6. LinkedIn
 
 Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
-
-## Time Commitment
-
-The time commitment will be a few hours a month, at least, for each Working Group. In addition, you will receive another welcome email for each of the Working Groups you joined with specific instructions about how to get involved with them.
-
 
 
