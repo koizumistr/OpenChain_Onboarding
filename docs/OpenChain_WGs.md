@@ -14,11 +14,10 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 [Add Chair & GM images]
 
 ## Working Group Meeting Schedule
- 
  - OpenChain Global [meeting calendar](https://calendar.google.com/calendar/u/0/embed?src=c_08seb6095ofjtfr5fjb5tabgl4@group.calendar.google.com&ctz=Asia/Tokyo)<br>
  - Need help with timezone conversions? Check out [worldtimebuddy.com](https://www.worldtimebuddy.com/).<br>
 
-## [Specification](https://github.com/OpenChain-Project/Specification)**
+## [Specification](https://github.com/OpenChain-Project/Specification)
 This repository holds the official OpenChain Specification releases in English along with community reference translations in multiple languages.<br>
 
 ## OpenChain Project Japan Work Group(JWG)<br>
@@ -36,9 +35,9 @@ OpenChain KWG (Korea Work Group), a subgroup of the Linux Foundation OpenChain P
  - [Subscribe](https://openchain-project.github.io/OpenChain-KWG/about/subscribe/)
 
 ## OpenChain Project Taiwan Work Group(TWG)<br>
-
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-TWG/blob/master/README.md)<br>
  - **[Contact](taiwan-wg+owner@lists.openchainproject.org)**<br>
  - [GitHub](https://github.com/OpenChain-Project/OpenChain-TWG)<br>
 
  ## OpenChain GitHub [Projects](https://github.com/OpenChain-Project)
+ 
