@@ -16,7 +16,7 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 ## Working Group Meeting Schedule
  - OpenChain Global [meeting calendar](https://calendar.google.com/calendar/u/0/embed?src=c_08seb6095ofjtfr5fjb5tabgl4@group.calendar.google.com&ctz=Asia/Tokyo)
 
- - Need help with timezone conversions? Check out worldtimebuddy.com.
+ - Need help with timezone conversions? Check out [worldtimebuddy.com](https://www.worldtimebuddy.com/).
 
 ## OpenChain Project Japan Work Group(JWG)<br>
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-JWG#readme)<br>
