@@ -9,29 +9,30 @@ Welcome to the [Foundation](https://www.openchainproject.org/). We are excited t
 
 Please take a moment to join our OpenChain community.
 
-## Slack
+## 1. Slack
 
-1. Join the OpenChain [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) community and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact mailto:helpdesk@lists.openchainproject.org.
+Join the OpenChain [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) community and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. We would love to hear a little bit about yourself and your motivations. If you don't have access to Slack yet, please contact mailto:helpdesk@lists.openchainproject.org.
 
-## GitHub
+## 2. GitHub
 
-2. Have a look at our OpenChain [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project) projects. OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
+Have a look at our OpenChain [<img src="./img/github_logo.png" alt="drawing" width="150"/>](https://github.com/OpenChain-Project) projects. OpenChain functions as a set of smaller working groups, each with its own set of projects and scope. Your next task is to decide which of these working groups you would like to be involved in. 
 
-## Groups.io
+## 3. Groups.io
 
-3. Join our OpenChain [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join) mailing list.    
+Join our OpenChain [<img src="./img/groups.io logo.jpeg" alt="drawing" width="150"/>](https://lists.openchainproject.org/g/main/join) mailing list.    
 
-## Engage With Our Community
+## 4. Engage With Our Community
 
-4. We Hold [Bi-Weekly Global Calls and Bi-Weekly Webinars](https://www.openchainproject.org/community). This allow us to connect with teams around the world to discuss activity, and to hold on-going presentations delivering timely knowledge.
 
-## Twitter
+We Hold [Bi-Weekly Global Calls and Bi-Weekly Webinars](https://www.openchainproject.org/community). This allow us to connect with teams around the world to discuss activity, and to hold on-going presentations delivering timely knowledge.
 
-5. Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
+## 5. Twitter
 
-## LinkedIn
+Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](https://twitter.com/openchainproj/)
 
-6. Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
+## 6. LinkedIn
+
+Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
 
 ## Time Commitment
 
