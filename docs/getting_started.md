@@ -1,13 +1,12 @@
 [<img src="./img/Onboard image.png" alt="drawing" width="150"/>](https://www.openchainproject.org/)
 
-
 # Getting Started
 
 The OpenChain Project maintains the International Standard for open source license compliance. This allows companies of all sizes and in all sectors to adopt the key requirements of a quality open source compliance program. This is an open standard and all parties are welcome to engage with our community, to share their knowledge, and to contribute to the future of our standard.
 
-Our Vision is a supply chain where open source is delivered with trusted and consistent compliance information.
+**Our Vision** is a supply chain where open source is delivered with trusted and consistent compliance information.
 
-Our Mission is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
+**Our Mission** is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
 
 ## Important First Steps
 
@@ -27,7 +26,6 @@ Join our OpenChain [<img src="./img/groups.io logo.jpeg" alt="drawing" width="15
 
 ## 4. Engage With Our Community
 
-
 We Hold [Bi-Weekly Global Calls and Bi-Weekly Webinars](https://www.openchainproject.org/community). This allows us to connect with teams around the world to discuss activity, and to hold on-going presentations delivering timely knowledge.
 
 ## 5. Twitter
@@ -37,5 +35,3 @@ Follow us on [<img src="./img/twitter_PNG3.png" alt="drawing" width="150"/>](htt
 ## 6. LinkedIn
 
 Join us on [<img src="./img/linkedIn.png" alt="drawing" width="150"/>](https://www.linkedin.com/company/openchain/)
-
-
