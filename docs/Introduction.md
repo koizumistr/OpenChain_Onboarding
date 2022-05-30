@@ -4,6 +4,10 @@
 
 Welcome to the OpenChain, we are excited to have you join our community. Our global community encompasses hundreds of companies and thousands of people dedicated to making open source license compliance more effective and efficient. This is more than an ISO standard. We work together to share knowledge, to produce reference material, and to offer direct community support globally and locally. Take a moment to learn about some of the people behind this collaborative effort.
 
+**Our Vision** is a supply chain where open source is delivered with trusted and consistent compliance information.
+
+**Our Mission** is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
+
 **[Add Images and personalities of the OpenChain]**
 
 ## General Manager
