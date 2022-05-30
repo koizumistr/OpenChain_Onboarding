@@ -18,19 +18,19 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 
  - Need help with timezone conversions? Check out worldtimebuddy.com.
 
-## OpenChain Project Japan Work Group(JWG) Working Group<br>
+## OpenChain Project Japan Work Group(JWG)<br>
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-JWG#readme)<br>
  - [Wiki](https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group)<br>
  - **Chairperson**<br>
  - [GitHub](https://github.com/OpenChain-Project/Japan-WG-General)<br>
 
-## OpenChain Project Korea Work Group(KWG) Working Group<br>
+## OpenChain Project Korea Work Group(KWG)<br>
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-KWG/blob/master/README.md)<br>
  - **[Contact](https://openchain-project.github.io/OpenChain-KWG/about/contact/)**<br>
  - [GitHub](https://github.com/OpenChain-Project/OpenChain-KWG)<br>
  - [Subscribe](https://openchain-project.github.io/OpenChain-KWG/about/subscribe/)
 
-## OpenChain Project Taiwan Work Group(TWG) Working Group<br>
+## OpenChain Project Taiwan Work Group(TWG)<br>
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-TWG/blob/master/README.md)<br>
  - **[Contact](taiwan-wg+owner@lists.openchainproject.org)**<br>
  - [GitHub](https://github.com/OpenChain-Project/OpenChain-TWG)<br>
