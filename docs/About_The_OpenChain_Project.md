@@ -1,5 +1,7 @@
 # How we work togeter
 
+## 
+
 ## Consensus Based Projects
 
 These projects are run via consensus with the same rules as the associated working group. If as an individual member you have concerns with the direction of these projects you may choose to raise an objection which needs to be resolved.
@@ -17,24 +19,21 @@ Only Chairs/Project leads have the right to accept or reject any changes.
 	<figcaption></figcaption>
 </figure>
 
-## Drafting phase
- - An editing team is assigned to the document, they will write the initial draft and people can volunteer to be part of that team.<br>
- - Only the editing team has write access to the doc.<br>
- - Once the editing team has finished the initial draft and reached consensus amongst themselves it enters the discussion phase.<br>
- - The doc should clearly state who the editing team are and which working group it belongs to.<br>
-
 ## Discussion Phase
- - The document is shared for discussion with the whole group for comments, no suggested edits are allowed, just comments.<br>
- - Comments should never be deleted, only resolved, resolved comments can be reopened and the history is visible, deleted comments are deleted forever.<br>
- - The editors are responsible to read the comments and reword the doc to reach consensus. <br>
- - The original commenter should be informed of any updates to the doc based on their feedback so they have an opportunity to review, this can be done simply by replying to the original comment.<br>
- - Any comments that are not in the review and approval phase are advisory only. It’s up to the editing team to decide whether to incorporate the feedback into the doc or not.<br>
- - The editing team may choose to resolve a comment without making any changes to the doc at all.<br>
- - The original commenter can restore their comment if they are not happy with the resolution they can sustain an objection and ask for the comment to enter the review and approval phase.<br>
- - In order to ensure the document isn’t blocked with unresolved comments, the editing team or a commenter may move a comment into a review and approval phase.<br>
 
-## Review & Approval Phase
- - To reach consensus the editing team now must work to try to incorporate the feedback from the commenter into the document.<br>
- - In this phase it's the responsibility of both parties to proactively come to a resolution in a timely manner, messages need to be responded to within 2 working days otherwise the comment is resolved.<br>
- - If after 5 days the comment is still in the review and approval phase then there is a vote.<br>
+ - People submit pull requests.<br>
+ - There may be a discussion on the pull request.<br>
+ - The pull request can be updated as a result of the discussion.<br>
+
+## Review and Approval Phase
+
+ - At the decision of the chairs, the PR enters a Review & Approval (R&A) process for a period of time determined by the chair.<br>
+ - The PR will be tagged with a label to indicate how much time there is for the R&A process.<br>
+  - 0 Days - Minor, Editorial Changes.<br>
+  - 1 or 2 Days for Minor Changes<br>
+  - 3 or 5 Days for Major Changes.<br>
+ - If there are no sustained objections after that time period, the PR is merged.<br>
+ - If there are objections, the person who made the objection needs to be made happy through reworking the pull request.<br>
+ - If the person making the objection cannot be made happy there is a vote.<br>
+
 
