@@ -2,11 +2,7 @@
 
 # Getting Started
 
-The OpenChain Project maintains the International Standard for open source license compliance. This allows companies of all sizes and in all sectors to adopt the key requirements of a quality open source compliance program. This is an open standard and all parties are welcome to engage with our community, to share their knowledge, and to contribute to the future of our standard.
-
-**Our Vision** is a supply chain where open source is delivered with trusted and consistent compliance information.
-
-**Our Mission** is to establish requirements to achieve effective management of open source for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.
+Outlined in these onboarding pages is an introduction of how to start collaboring with our community. If you are having technical difficulties or lacking access to something, please reach out to our [PM team](mailto:helpdesk@lists.openchainproject.org)
 
 ## Important First Steps
 
@@ -14,7 +10,7 @@ Please take a moment to join our OpenChain community.
 
 ## 1. Slack
 
-Join the OpenChain [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) community and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel. Outlined in these onboarding pages is an introduction of how to start collaboring with our community. If you are having technical difficulties or lacking access to something, please reach out to our [PM team](mailto:helpdesk@lists.openchainproject.org)
+Join the OpenChain [<img src="./img/slack.png" alt="drawing" width="150"/>](https://openchainproject.slack.com/) community and introduce yourself in the [#introductions](https://openchainproject.slack.com/archives/C03G1FE8T0W) channel.
 
 ## 2. GitHub
 
