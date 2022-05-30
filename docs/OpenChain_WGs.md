@@ -24,4 +24,4 @@
  - **[Contact](taiwan-wg+owner@lists.openchainproject.org)**<br>
  - [GitHub](https://github.com/OpenChain-Project/OpenChain-TWG)<br>
 
- ### OpenChain GitHub [Projects](add github links](https://github.com/OpenChain-Project)
+ ### OpenChain GitHub [Projects](https://github.com/OpenChain-Project)
