@@ -18,6 +18,14 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 ## [Specification](https://github.com/OpenChain-Project/Specification)
 This repository holds the official OpenChain Specification releases in English along with community reference translations in multiple languages.<br>
 
+
+# Regional Working Groups
+
+<figure>
+	<img src="img/regional_wg.svg" alt="OpenChain Governance Structure">
+	<figcaption></figcaption>
+</figure>
+
 ## OpenChain Project Japan Work Group(JWG)<br>
  - [ReadMe](https://github.com/OpenChain-Project/OpenChain-JWG#readme)<br>
  - [Wiki](https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group)<br>
