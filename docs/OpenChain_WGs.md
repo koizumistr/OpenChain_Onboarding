@@ -7,11 +7,9 @@ The time commitment will be a few hours a month, at least, for each Working Grou
 ## OpenChain Governance Structure
 
 <figure>
-	<img src="img/gsf_governance.svg" alt="OpenChain Governance Structure">
+	<img src="img/oc_wg.drawio.svg" alt="OpenChain Governance Structure">
 	<figcaption></figcaption>
 </figure>
-
-[Add Chair & GM images]
 
 ## Working Group Meeting Schedule
  - OpenChain Global [meeting calendar](https://calendar.google.com/calendar/u/0/embed?src=c_08seb6095ofjtfr5fjb5tabgl4@group.calendar.google.com&ctz=Asia/Tokyo)<br>
