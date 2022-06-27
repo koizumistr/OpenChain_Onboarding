@@ -27,8 +27,8 @@ This repository holds the official OpenChain Specification releases in English a
 </figure>
 
 ## OpenChain Project Japan Work Group(JWG)<br>
- - [ReadMe](https://openchain-project.github.io/OpenChain-JWG/)<br>
- - [Wiki](https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group)<br>
+ - [ReadMe](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/README.md)<br>
+ - [Wiki](https://openchain-project.github.io/OpenChain-JWG/)<br>
  - [GitHub Project](https://github.com/OpenChain-Project/OpenChain-JWG/)<br>
 
 ## OpenChain Project Korea Work Group(KWG)<br>
